@@ -1,0 +1,15 @@
+h1{
+  color:red;
+}
+body{
+  background-image: url("https://image.freepik.com/free-photo/abstract-background-with-low-poly-design_1048-8478.jpg");
+  background-size: cover;
+  font-size: 20px;
+  font-style: dancing script;
+  color:orange;
+}
+#rep{
+  margin-left: 20em;
+  margin-right: 20em;
+  background-color: white opacity 0.2;
+}

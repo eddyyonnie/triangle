@@ -5,14 +5,20 @@
         <link href="style.css" type="text/css" rel="stylesheet">
   </head>
   <body>
+    <div id="rep">
     <h1>Triangle Tracker</h1>
-    <p>What combination of numbers form what type of tringle....THAT'S MY JOB.Key in words and find out.HHHMMM!</p>
-    <div id="column">
+    <p>What combination of numbers form what type of tringle....THAT'S MY JOB.Key in numbers and find out.HHHMMM!</p>
     <form>
-      Enter one: <input type="number" id = "one">
-      Enter two: <input type="number" id = "two">
-      Enter three: <input type="number" id = "three">
+      <div id="column">
+      <br>Enter one: <input type="number" id = "one"></br>
+      <br>Enter two: <input type="number" id = "two"></br>
+      <br>Enter three: <input type="number" id = "three"></br>
+      <button type="button" onclick="tri()">Action</button>
+      <button type="reset">Clear</button>
+      </div>
     </form>
+    <p id="return"></p>
     <script src="scripts.js"></script>
+  </div>
   </body>
 </html>

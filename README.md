@@ -4,7 +4,11 @@
 ##description
 
 
-*A project based on basic mathematical operations and concepts with a firm objective of targeting the triangles and what distinguishes them from each other.
+*A project based on basic mathematical operations and concepts with a firm objective of targeting the triangles and what distinguishes them from each other
+
+##Behaviour Driven  Developement
+
+*the website is built under links and well instructed commands involved in javascript
 
 
 ##Challenges faced.
