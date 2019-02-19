@@ -21,7 +21,7 @@
 
 
 *Chipped in HTML CSS and JavaScript to perfect the thing that make the project function and responsive.
-Here is a responsive link to the github sight where the project is staged.{}
+Here is a responsive link to the github sight where the project is staged.{https://github.com/eddyyonnie/triangle}
 
 
 ####About me.
