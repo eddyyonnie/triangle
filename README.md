@@ -24,7 +24,7 @@
 Here is a responsive link to the github sight where the project is staged.{https://github.com/eddyyonnie/triangle}
 
 
-####About me.
+####About me
 
 
 *I beleive myself to be an uprising softwear engineer and plan to be the best there can ever be.One little secret...The plan is already commenced and at this moment being put to practise.
